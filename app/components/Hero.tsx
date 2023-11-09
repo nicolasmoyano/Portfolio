@@ -3,7 +3,10 @@ import React from 'react'
 const Hero = () => {
   return (
     <>
-        <h1 className='text-5xl font-semibold leading-normal'>User Experience Designer passionate about holistic, <br />accessible, and inclusive design, based in Seattle.</h1>
+    <section className='gradient-conic'>
+
+        <h1 className='text-8xl font-semibold leading-snug'>All design ni behöver.<br/> När ni behöver det.</h1>
+    </section>
     </>
   )
 }
