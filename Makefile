@@ -1,4 +1,4 @@
 gt:
-git add .
-git commit -m "commit"
-git push origin
+	git add .
+	git commit -m "commit"
+	git push origin

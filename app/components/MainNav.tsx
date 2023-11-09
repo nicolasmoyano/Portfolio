@@ -7,7 +7,7 @@ const MainNav = () => {
   return (
     <>
     <Container>
-    <nav className='flex justify-between items-center py-4 sticky top-0'>
+    <nav className='flex justify-between items-center p-4 sticky top-0'>
       <div>
         <ul className='flex justify-between [&>li]:pr-4'>
         <li>
