@@ -5,7 +5,7 @@ interface Props {
   // any props that come into the component
 }
 
-const Container = ({children}) => {
+const Container = ({children}:any) => {
   return (
     <div className='container mx-auto text-center'>
         {children}
