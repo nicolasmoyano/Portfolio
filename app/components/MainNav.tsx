@@ -21,10 +21,10 @@ const MainNav = () => {
           </a>
         </li>
         </ul></div>
-      <div><Image className="scale-75"src={Logo} alt="Nicolas Moyano"></Image></div>
+      <div><Image className="scale-50 md:scale-75 transition-all"src={Logo} alt="Nicolas Moyano"></Image></div>
       <ul className='flex justify-between [&>li]:pr-4'>
         <li>
-          <a href="/#">
+          <a href="/resume">
             About
           </a>
         </li>
