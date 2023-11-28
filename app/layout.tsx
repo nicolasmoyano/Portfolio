@@ -19,7 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <div className='sticky top-0'>
-        <MainNav />
+        {/* <MainNav /> */}
         </div>
         {children}
         </body>
